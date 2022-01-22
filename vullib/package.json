@@ -1,0 +1,11 @@
+{
+  "name": "vullib",
+  "version": "1.0.3",
+  "description": "Uma Lib que facilita a sua vida fazendo Databases e geradores de id",
+  "main": "Database.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "davibr5557wy",
+  "license": "ISC"
+}
